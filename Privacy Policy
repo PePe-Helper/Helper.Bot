@@ -1,0 +1,48 @@
+Privacy Policy for Discord Support Bot
+Last updated: [Datum einsetzen]
+
+1. Introduction
+This Privacy Policy explains how information is collected, used, and protected when using the Discord Support Bot (“the Bot”) and related Client software (“the Client”).
+
+2. Information We Collect
+Hardware ID (HWID): Used to uniquely identify client devices for support purposes.
+
+Username: The operating system username of the client device user.
+
+IP Address: Collected during device registration to help identify the device location.
+
+Command Logs and Status Updates: Commands sent to clients and their execution results are logged and sent to your Discord server channels.
+
+3. How We Use Your Information
+To identify and manage client devices within the support system.
+
+To deliver commands from support staff to the correct client devices.
+
+To provide status updates and logs to authorized support personnel via Discord.
+
+4. Data Sharing and Disclosure
+Your data is stored and used only within the scope of providing support via the Bot and Client.
+
+Data is shared only with authorized support staff who have access to your Discord server.
+
+We do not sell, rent, or trade your personal information.
+
+5. Data Security
+Reasonable measures are taken to protect your data from unauthorized access or disclosure.
+
+However, no system can guarantee 100% security.
+
+6. Data Retention
+Device registrations, command logs, and status updates are retained as long as necessary to provide support services.
+
+7. User Rights
+You have the right to request deletion or modification of your device data by contacting the support team.
+
+You are responsible for securing your Discord account and server access.
+
+8. Changes to This Policy
+This Privacy Policy may be updated occasionally. Continued use of the Bot and Client constitutes acceptance of the updated policy.
+
+9. Contact
+If you have any questions or concerns about this Privacy Policy, please contact the developer.
+
