@@ -1,0 +1,38 @@
+Terms of Service (ToS) for Discord Support Bot
+Last updated: [10-07-2025]
+
+1. Acceptance of Terms
+By using this Discord Support Bot (“the Bot”) and related software (“the Client”), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, do not use the Bot or Client.
+
+2. Description of Service
+The Bot and Client facilitate remote support by allowing authorized users to send commands to client devices via Discord. Commands may include actions such as configuring antivirus exclusions or other system changes as permitted by the user.
+
+3. User Responsibilities
+You must obtain explicit consent from all users of client devices before running the Client software or executing commands on their machines.
+
+You are responsible for ensuring that the Client is run with the necessary permissions (e.g., administrator rights) to perform requested actions.
+
+You must not use the Bot or Client to perform unauthorized or illegal actions.
+
+4. Privacy and Data
+The Bot collects minimal device information such as hardware IDs (HWID) and usernames to identify and manage clients.
+
+No personal data beyond what is necessary for support purposes is collected or stored.
+
+Status updates and command logs are posted in your Discord server channels as part of normal operation.
+
+5. Security
+Users are responsible for securing their Discord accounts and servers.
+
+The developer is not liable for any misuse of the Bot or Client by third parties.
+
+6. Limitation of Liability
+The Bot and Client are provided “as is” without warranties of any kind.
+
+The developer is not responsible for any damage, loss, or issues resulting from use of the Bot or Client.
+
+7. Changes to Terms
+These Terms may be updated at any time. Continued use of the Bot or Client constitutes acceptance of any changes.
+
+8. Contact
+For questions or concerns regarding these Terms, please contact the developer.
